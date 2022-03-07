@@ -13,10 +13,15 @@
     z-index: 1;
 }
 
-.dropdown:hover .dropdown-content {
-    display: block;
+.link-1{
+    text-decoration: none;
+    pointer-events: none;
 }
 
-.dropdown2:hover .dropdown-content2 {
+.fa-solid{
+    color: black;
+}
+
+.dropdown:hover .dropdown-content {
     display: block;
 }
